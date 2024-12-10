@@ -1,24 +1,33 @@
-<img src="https://looker.com/assets/img/images/logos/looker.svg" alt="Looker" width="200"/>
+[//]: # (# Embed Reference - Java Backend)
 
-# Embed Reference - Java Backend
+[//]: # ()
+[//]: # (This application is the backend / server component supporting the [reference implementation library]&#40;../Frontend&#41; of examples for building Embedded [Looker]&#40;https://www.looker.com&#41; Solutions.  )
 
-This application is the backend / server component supporting the [reference implementation library](../Frontend) of examples for building Embedded [Looker](https://www.looker.com) Solutions.  
+[//]: # ()
+[//]: # (This JavaScript application uses the [Looker API]&#40;https://docs.looker.com/reference/api-and-integration&#41; to provide embed urls to the user-facing React [application]&#40;../Frontend&#41;.)
 
-This JavaScript application uses the [Looker API](https://docs.looker.com/reference/api-and-integration) to provide embed urls to the user-facing React [application](../Frontend).
+[//]: # ()
+[//]: # (There is a [Node backend example]&#40;../Backend-Node&#41; of this application as well.)
 
-There is a [Node backend example](../Backend-Node) of this application as well.
+[//]: # ()
+[//]: # (## About Embedding Looker)
 
-## About Embedding Looker
----
-Embedding Looker involves displaying and interacting with Looker content from an outside source, such as the users website or in a third party SAS solution from another vendor. This offers a way to seemlessly leverage the power of Looker to enhance a third party product and / or offer a secure method for an outside user to interact with the data provided. 
+[//]: # (---)
 
-For more please see the documentation for the [Front End](../Frontend/README.md#about-embedding-looker) component.
+[//]: # (Embedding Looker involves displaying and interacting with Looker content from an outside source, such as the users website or in a third party SAS solution from another vendor. This offers a way to seemlessly leverage the power of Looker to enhance a third party product and / or offer a secure method for an outside user to interact with the data provided. )
 
-## Prerequisites
----
-There are two methods of running this application; locally or on [GCP AppEngine.](https://cloud.google.com/appengine) 
+[//]: # ()
+[//]: # (For more please see the documentation for the [Front End]&#40;../Frontend/README.md#about-embedding-looker&#41; component.)
 
-* A valid Looker API Key created from [User Admin.](https://docs.looker.com/admin-options/settings/users#api3_keys)
+[//]: # ()
+[//]: # (## Prerequisites)
+
+[//]: # (---)
+
+[//]: # (There are two methods of running this application; locally or on [GCP AppEngine.]&#40;https://cloud.google.com/appengine&#41; )
+
+[//]: # ()
+[//]: # (* A valid Looker API Key created from [User Admin.]&#40;https://docs.looker.com/admin-options/settings/users#api3_keys&#41;)
 
 ## Installation (local)
 
